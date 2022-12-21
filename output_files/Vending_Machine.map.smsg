@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at Vending_Machine.sv(63): always construct contains both blocking and non-blocking assignments File: B:/QUARTUS/vending_machine_project/Vending_Machine.sv Line: 63
+Warning (10268): Verilog HDL information at Vending_Machine.sv(79): always construct contains both blocking and non-blocking assignments File: B:/QUARTUS/vending_machine_project/Vending_Machine.sv Line: 79

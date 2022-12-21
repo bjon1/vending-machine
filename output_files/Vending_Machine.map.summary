@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Sun Dec 18 18:15:08 2022
+Quartus Prime Version : 22.1std.0 Build 915 10/25/2022 SC Lite Edition
+Revision Name : Vending_Machine
+Top-level Entity Name : Vending_Machine
+Family : MAX 10
+Total logic elements : 1,577
+    Total combinational functions : 1,563
+    Dedicated logic registers : 126
+Total registers : 126
+Total pins : 55
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
